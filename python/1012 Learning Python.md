@@ -1,3 +1,3 @@
-# 1012 Python Data Types
-# "Python List" 
+# 1012 PYTHON DATA TYPE LIST
+# "PYTHON LIST" 
 ### List
