@@ -95,7 +95,7 @@ print(len(fruits))
 color = ['gold', 'pink', 'white', 'beige', 'black']
 
 # 'gold' is removed
-vehicle.remove('gold')
+color.remove('gold')
 
 
 # Updated transportation list
@@ -106,7 +106,7 @@ print('Updated transportation list: ', color)
 # color list
 color = ['gold', 'pink', 'white', 'beige']
 # Deleting 'violet' element
-vehicle.remove('violet')
+color.remove('violet')
 
 
 # Updated color list
