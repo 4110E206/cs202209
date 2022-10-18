@@ -233,10 +233,11 @@ print(thislist)
 ### Example
 - Add elements of a transpo to a list:
 ```python
-thislist = ["cake","salad","pizza"]
-dessert = ("graham", "fries")
-thislist.extend(thistuple)
+thislist = ["gold","pink","white"]
+color = ("beige", "violet")
+thislist.extend(color)
 print(thislist)
+['gold', 'pink', 'white', 'beige', 'violet']
 ```
 # Python - Remove List Items
 ## Remove Specified Item
