@@ -91,26 +91,26 @@ print(len(fruits))
 ```
 ## Example 3: Deleting element that doesn't exist
 ```python
-# transportion list
-vehicle = ['car', 'boat', 'car', 'airplane', 'train']
+# color list
+color = ['gold', 'pink', 'white', 'beige', 'black']
 
-# 'car' is removed
-vehicle.remove('car')
+# 'gold' is removed
+vehicle.remove('gold')
 
 
 # Updated transportation list
-print('Updated transportation list: ', vehicle)
+print('Updated transportation list: ', color)
 ```
 ## Example 3: Deleting element that doesn't exist
 ```python
-# transportation list
-vehicle = ['car', 'boat', 'airplane', 'train']
-# Deleting 'motorcycle' element
-vehicle.remove('motorcycle')
+# color list
+color = ['gold', 'pink', 'white', 'beige']
+# Deleting 'violet' element
+vehicle.remove('violet')
 
 
-# Updated transportation list
-print('Updated transportation list: ', vehicle)
+# Updated color list
+print('Updated transportation list: ', color)
 ```
 
 
